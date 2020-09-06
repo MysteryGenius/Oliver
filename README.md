@@ -2,7 +2,7 @@
 
 This is a simple Landing site for Project Oliver / yPrep. The web application will be hosted in another site
 
-Built with Vue + Tailwind
+Built with Tailwind
 
 ### Install dependencies 
 ~~~ 
